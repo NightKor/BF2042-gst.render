@@ -2,6 +2,7 @@
 Here is my recent config file changes within your Documents\Battlefield 2042\settings\PROFSAVE_profile
 [UPDATED 6.18.2022]
 
+$ Make sure to change the GstRender.ResolutionHertz item to match your Monitor Refresh Rate $
 
 Navigate to your C:\"username"\Documents\Battlefield 2042\settings folder and edit PROFSAVE_Profile in Notepad
 or Notepad++
