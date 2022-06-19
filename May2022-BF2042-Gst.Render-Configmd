@@ -1,5 +1,7 @@
 # BF2042-gst.render
-Here is my recent config file changes within your Documents\Battlefield 2042\settings\PROFSACE_profile
+Here is my recent config file changes within your Documents\Battlefield 2042\settings\PROFSAVE_profile
+[UPDATED 6.18.2022]
+
 
 Navigate to your C:\"username"\Documents\Battlefield 2042\settings folder and edit PROFSAVE_Profile in Notepad
 or Notepad++
@@ -8,10 +10,10 @@ When you get to gst.render in the config file select in existing file and paste 
 is setup to how I play, so you may have to change the refresh rate and resolution.
 
 GstRender.AmbientOcclusion 0
-GstRender.AnisotropicFilter 1
+GstRender.AnisotropicFilter 0
 GstRender.AntiAliasingDeferred 0
 GstRender.AntiAliasingPost 0
-GstRender.Brightness 0.590000
+GstRender.Brightness 0.540000
 GstRender.ChromaticAberration 0
 GstRender.ClampGpuMemory 0
 GstRender.ColorBlindCustomColorEnemy 190/55/50/255/2.0/0.583/0.470/1.0
@@ -32,64 +34,66 @@ GstRender.DLSSEnabled 0
 GstRender.DRSEnabled 0
 GstRender.DRSRefreshRateTarget 2
 GstRender.DamageIndicatorSoldierThickness 2
+GstRender.DamageIndicatorThickness 2
 GstRender.DamageIndicatorVehicleThickness 2
-GstRender.DisplayMappingHdr10PeakLuma 1000.000000
+GstRender.DisplayMappingHdr10PeakLuma 2000.000000
 GstRender.Dx12Enabled 1
 GstRender.EffectsQuality 0
 GstRender.Enlighten 0
 GstRender.FieldOfViewScaleADS 1
-GstRender.FieldOfViewVertical 105.000000
-GstRender.FieldOfViewVerticalVehicle 64.000000
+GstRender.FieldOfViewVertical 112.000000
+GstRender.FieldOfViewVerticalVehicle 100.000000
 GstRender.FilmGrain 0
+GstRender.FireModeIndicator 0
 GstRender.FullscreenEnabled 0
 GstRender.FullscreenMode 2
 GstRender.FullscreenRefreshRate 200.001007
 GstRender.FullscreenScreen 0
 GstRender.FutureFrameRendering 0
-GstRender.HUD-Enemy -16777216
+GstRender.HUD-Enemy -10604289
 GstRender.HUD-Friendly 654303231
 GstRender.HUD-Neutral -1059004161
 GstRender.HUD-Squad 16711935
-GstRender.HighDynamicRange 1
+GstRender.HighDynamicRange 0
 GstRender.HighDynamicRangeMode 0
 GstRender.HighResUIScaleFactor 0.500000
-GstRender.LensDistortion 1
+GstRender.LensDistortion 0
 GstRender.LightingQuality 0
 GstRender.MaxVariableFps 4
 GstRender.MeshQuality 0
 GstRender.MotionBlur 0.000000
-GstRender.MotionBlurEnabled 0
+GstRender.MotionBlurEnabled 1
 GstRender.NvidiaDLSSMode 5
 GstRender.NvidiaReflex 2
 GstRender.NvidiaReflexFlashIndicator 0
 GstRender.OptionHudBackgroundOpacity 0.500000
-GstRender.OverallGraphicsQuality 1
+GstRender.OverallGraphicsQuality 5
 GstRender.PostProcessQuality 0
 GstRender.RTAO 0
 GstRender.RaytracingAmbientOcclusion 0
-GstRender.ResolutionHeight 1440
-GstRender.ResolutionHertz 60.000000
+GstRender.ResolutionHeight 1080
+GstRender.ResolutionHertz 199.987000
 GstRender.ResolutionScale 1.000000
-GstRender.ResolutionWidth 2560
+GstRender.ResolutionWidth 1920
 GstRender.ScreenSafeAreaHeight 1.000000
 GstRender.ScreenSafeAreaWidth 1.000000
-GstRender.ShaderQuality 3.000000
+GstRender.ShaderQuality 2.000000
 GstRender.ShadowQuality 0
 GstRender.SignificanceQuality 0
 GstRender.SoldierCompassVisibility 1
 GstRender.StereoConvergence 1.000000
 GstRender.Stereoscopy 0
-GstRender.SubtitleBackgroundAlpha 0.000000
+GstRender.SubtitleBackgroundAlpha 0.800000
 GstRender.SubtitleUseOutline 0
 GstRender.TerrainQuality 0
 GstRender.TextureFiltering 0
 GstRender.TextureQuality 0
-GstRender.Thread.MaxProcessorCount 8
 GstRender.TransparentShadows 0
 GstRender.UndergrowthQuality 0
 GstRender.VSyncEnabled 0
 GstRender.Vignette 0
 GstRender.WeaponDOF 0
 GstRender.WindowBordersEnable 0
-GstRender.uiUpscaling 
+GstRender.uiUpscaling 0
+
 
